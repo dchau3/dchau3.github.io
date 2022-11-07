@@ -1,4 +1,4 @@
-.blogPics {
+.blogPics img {
     width: 400px;
     height: auto;
 }
@@ -8,6 +8,15 @@
     height: auto;
 }
 
+.center {
+    text-align: center;
+}
+
 h3 {
     color: orange;
+}
+
+body {
+    text-align: center;
+    margin: 10%;
 }
