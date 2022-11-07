@@ -3,7 +3,11 @@
     height: auto;
 }
 
-h1 {
+.verticalBlogPics {
+    width: 300px;
+    height: auto;
+}
+
+h3 {
     color: orange;
-    text-align: center;
 }
